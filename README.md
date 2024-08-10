@@ -14,7 +14,7 @@ University Management System: Flask-based platform with MySQL integration, featu
 
 ![Screenshot 2024-04-19 002629](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/f2e5a2bc-2829-4a8e-a07f-5213161cb648)
 
-![Screenshot 2024-04-19 002847](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/c8e0a302-5d2b-4e29-8d8e-db756c7edb34)
+
 
 ## About Us Page 
 
@@ -28,7 +28,7 @@ University Management System: Flask-based platform with MySQL integration, featu
 
 ![Screenshot 2024-04-19 003135](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/dda68c0f-3473-4699-81bc-444ae63c3645)
 
-![Screenshot 2024-04-19 003159](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/0d8a1ad1-1aba-47bc-bbcc-eaf9e001433c)
+
 
 ## Login Page 
 
@@ -66,7 +66,6 @@ University Management System: Flask-based platform with MySQL integration, featu
 
 ![Screenshot 2024-04-19 003925](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/fae74e35-be8e-487f-b3f4-c5d28bdc61c1)
 
-![Screenshot 2024-04-19 003938](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/0293213c-24d4-41d3-8770-41553f3a5a9f)
 
 ![Screenshot 2024-04-19 010143](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/b4e9e766-6a1e-441a-bd33-c1c5363a4a2f)
 
@@ -74,13 +73,11 @@ University Management System: Flask-based platform with MySQL integration, featu
 
 ![Screenshot 2024-04-19 004025](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/2c4b68f2-473d-40a2-be90-2ab95ac45902)
 
-![Screenshot 2024-04-19 004034](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/ed78d5e4-5b65-4928-ab5b-18bd8c24bf28)
+
 
 ## Student Dashboard
 
 ![Screenshot 2024-04-19 010434](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/ac7d8ce0-0d83-4db2-804c-197b8269c050)
-
-![Screenshot 2024-04-19 010457](https://github.com/Amanzm/X-University_____University-Management-System/assets/127956877/1eb3034b-d1f7-4b60-874e-bba45455224e)
 
 
 
